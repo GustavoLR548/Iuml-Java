@@ -9,7 +9,11 @@ Durante a apresentação, Jobs revelou o primeiro iPhone, descrevendo-o como tr�
 
 Jobs demonstrou várias funcionalidades do iPhone, incluindo a navegação pela web com o Safari, o uso de e-mail, o Google Maps e o Visual Voicemail. A integração de software e hardware foi um diferencial que deixou o público maravilhado.
 
+# Objetivo
+
 Neste repositório, você irá encontrar a modelagem destas funcionalidades realizadas em um diagrama de classes UML, além da implementação simplista destes recursos feito na linguagem Java.
+
+O objetivo deste exercício foi o aprendizado da implementação de conceitos POO na linguagem Java, assim como o aprendizado da criação de diagramas de classe em UML e sua respectiva implementação na prática
 
 # Diagrama UML
 
