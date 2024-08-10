@@ -7,7 +7,7 @@ Em 2007, [ocorreu a apresentação do iPhone](https://www.youtube.com/watch?v=Mn
 
 Durante a apresentação, Jobs revelou o primeiro iPhone, descrevendo-o como três dispositivos em um: um iPod widescreen com controles touch, um telefone celular revolucionário e um dispositivo de comunicação pela internet. O design minimalista e a interface touch screen foram destaques, eliminando a necessidade de um teclado físico e oferecendo uma tela multitoque intuitiva e inovadora.
 
-Jobs demonstrou várias funcionalidades do iPhone, incluindo a navegação pela web com o Safari, o uso de e-mail, o Google Maps e o Visual Voicemail. A integração de software e hardware foi um diferencial que deixou o público maravilhado.
+O CEO demonstrou várias funcionalidades do iPhone, incluindo a navegação pela web com o Safari, escutar músicas e uso do aparelho telefônico para usos comuns. A integração de software e hardware foi um diferencial que deixou o público maravilhado.
 
 # Objetivo
 
